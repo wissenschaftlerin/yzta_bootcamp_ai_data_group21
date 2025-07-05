@@ -21,7 +21,8 @@ Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodT
 - Duygu Takibi Yapmak İsteyenler: Kendi ruh hâlini daha iyi anlamak ve analiz etmek isteyen bireyler.
 
 ----
- - ## 📌 Proje Süreci & Sprintler
+
+## 📌 Proje Süreci & Sprintler
 <details>
   <summary><h1>🏃🏻‍➡️ Sprint 1 🏃🏻‍♀️‍➡️</h1></summary>
 
