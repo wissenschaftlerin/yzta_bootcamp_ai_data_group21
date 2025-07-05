@@ -52,6 +52,8 @@ Bu sprintte ekip olarak tanışıp var olan fikirlerimiz üzerine tartıştık. 
 ![İkinci Toplantı](https://github.com/user-attachments/assets/e7ed4df8-3ceb-431d-8a5c-d86fff4e509e)
 
 
+### İlk UI Tasarımı Web Sitesinin
+![WhatsApp Görsel 2025-06-30 saat 20 33 47_e0aa5a3a](https://github.com/user-attachments/assets/5b84fc60-6a7a-4ec2-a2ef-acc557cebdcf)
 
 
 ## Sprint Notları
