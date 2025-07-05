@@ -1,6 +1,5 @@
-# 📌 2025 Yapay Zeka ve Teknoloji Akademisi Mezuniyet Bootcamp AI ve Veri Bilimi Grup 21 Projesi 
-
 # 📌 MoodTune : 2025 Yapay Zeka ve Teknoloji Akademisi Mezuniyet Bootcamp AI ve Veri Bilimi Grup 21 Projesi 📱
+
 ### 🎯 Uygulama Adı:  MoodTune 🎶📱
 ### ✍🏻 Uygulama Özeti
  Fit4Try, kullanıcıların giyim tarzlarını öğrenip onlara uygun kıyafet önerileri sunan yenilikçi bir mobil uygulamadır. Bu uygulama, kullanıcıların stillerini analiz ederek kişiselleştirilmiş kıyafet önerileri sunmayı hedeflemektedir. Kullanıcı dostu arayüzü ve yapay zeka destekli algoritması sayesinde, kullanıcıların giyim tercihlerine en uygun kombinleri önerir.
