@@ -2,12 +2,23 @@
 
 ### 🎯 Uygulama Adı:  MoodTune 🎶📱
 ### ✍🏻 Uygulama Özeti
- Fit4Try, kullanıcıların giyim tarzlarını öğrenip onlara uygun kıyafet önerileri sunan yenilikçi bir mobil uygulamadır. Bu uygulama, kullanıcıların stillerini analiz ederek kişiselleştirilmiş kıyafet önerileri sunmayı hedeflemektedir. Kullanıcı dostu arayüzü ve yapay zeka destekli algoritması sayesinde, kullanıcıların giyim tercihlerine en uygun kombinleri önerir.
+MoodTune, kullanıcıların duygu durumlarına, semptomlarına veya ruh hâllerine göre kişiye özel müzik önerileri sunan yenilikçi bir mobil uygulamadır. Yapay zeka destekli algoritması sayesinde kullanıcıların ruh hâlini analiz eder ve buna uygun müzik listeleri oluşturarak zihinsel rahatlama ve duygusal dengeyi desteklemeyi hedefler.
 
-### 🌟 Eşsiz özellikleri
- - Kişiselleştirilmiş yapay zeka stil asistanı ile kişiye özgü kombinler önermesi 
- - Kullanıcıların yapay zeka yardımıyla mağazaya gitmeden veya o ürünü satın almadan en yeni tasarımları ve kıyafetleri üzerlerinde deneyebilmesi
- - Moda tasarımcılarının en yeni tasarımlarını sergileyebilecekleri bir ortam
+Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodTune, sadece bir müzik uygulaması değil, aynı zamanda günlük yaşam kalitesini artırmayı amaçlayan dijital bir refakatçidir.
+
+### 🌟 Eşsiz Özellikleri
+- 🎯 Yapay Zeka Destekli Duygu Analizi: Kullanıcının anlık duygu durumu (örneğin baş ağrısı, stres, huzursuzluk) veya günlük ruh hâli bazında analiz yapar.
+- 🎵 Kişiye Özel Müzik Önerileri: Kullanıcının semptomlarına veya hislerine en uygun müzik listelerini önerir.
+- 🧠 Zihinsel İyilik Hâli Desteği: Müzik terapisine dayalı içeriklerle kullanıcının zihinsel sağlığına katkı sağlar.
+- 🗂️ Profil & Takip Özelliği: Kullanıcılar ruh hâllerini zamanla takip edebilir, geçmiş önerilerine göz atabilir.
+- 💬 Semptom Giriş Sistemi: Baş ağrısı, uykusuzluk, stres gibi şikâyetleri girerek otomatik olarak ruh hâline uygun müzik önerisi alabilirler.
+- 🌐 Spotify API Entegrasyonu: Kullanıcıların önerilen müzikleri doğrudan Spotify üzerinden dinleyebilmesi.
+
+### 👥 Hedef Kitle
+- Zihinsel Sağlığına Önem Veren Kullanıcılar: Günlük stresle başa çıkmak ve rahatlamak isteyen bireyler.
+- Öğrenciler ve Çalışanlar: Yoğun tempoda zihinsel denge arayan kullanıcılar.
+- Müzikseverler: Ruh hâline uygun müziklerle kendini ifade etmek isteyen herkes.
+- Duygu Takibi Yapmak İsteyenler: Kendi ruh hâlini daha iyi anlamak ve analiz etmek isteyen bireyler.
 
 ----
  - ## 📌 Proje Süreci & Sprintler
@@ -18,7 +29,7 @@
   
 # Sprint 1 Review
 
-**Sprint Tarihleri:** 15 Haziran - 7 Temmuz
+**Sprint Tarihleri:** 21 Haziran - 6 Temmuz
 
 ## Proje Özeti
 
