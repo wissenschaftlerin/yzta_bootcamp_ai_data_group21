@@ -1,7 +1,7 @@
 # 📌 MoodTune : 2025 Yapay Zeka ve Teknoloji Akademisi Mezuniyet Bootcamp AI ve Veri Bilimi Grup 21 Projesi 📱
 
-### 🎯 Uygulama Adı:  MoodTune 🎶📱
-### ✍🏻 Uygulama Özeti
+### 🎯 Proje Adı:  MoodTune 🎶📱
+### ✍🏻 Proje Özeti
 MoodTune, kullanıcıların duygu durumlarına, semptomlarına veya ruh hâllerine göre kişiye özel müzik önerileri sunan yenilikçi bir mobil uygulamadır. Yapay zeka destekli algoritması sayesinde kullanıcıların ruh hâlini analiz eder ve buna uygun müzik listeleri oluşturarak zihinsel rahatlama ve duygusal dengeyi desteklemeyi hedefler.
 
 Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodTune, sadece bir müzik uygulaması değil, aynı zamanda günlük yaşam kalitesini artırmayı amaçlayan dijital bir refakatçidir.
@@ -34,63 +34,25 @@ Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodT
 
 ## Proje Özeti
 
-Bu sprintte, kullanıcıların giyim tarzlarını öğrenip onlara uygun kıyafet önerileri sunan bir mobil uygulama geliştirmeye karar verdik. Bu uygulama, kullanıcıların stillerini analiz ederek, kişiselleştirilmiş kıyafet önerileri sunmayı hedeflemektedir.
-
-## Ürün Özellikleri
-
-- **Stil Analizi:** Kullanıcıların stil ve tercihlerini öğrenmek için anket ve form ekranları.
-- **Kişiselleştirilmiş Öneriler:** Kullanıcının stiline uygun kıyafet önerileri sunan yapay zeka destekli algoritma.
-- **Kullanıcı Profili:** Kullanıcıların stillerini ve tercihlerini kaydedebilecekleri profil sayfası.
-- **Giriş ve Çıkış İşlemleri:** Firebase Authentication ile güvenli kullanıcı kimlik doğrulaması.
-- **Sezgisel Arayüz:** Kullanıcı dostu ve sezgisel arayüz tasarımı.
-- **Yapay Zeka Modeli:** Giyim önerileri için kullanılan gelişmiş yapay zeka modeli.
-
-## Hedef Kitle
-
-- **Genç Yetişkinler:** Moda konusunda önerilere açık, yeni stil denemek isteyen genç yetişkinler.
-- **Moda Tutkunları:** Moda ve stil konusunda önerilere ihtiyaç duyan ve trendleri takip eden kullanıcılar.
-- **Zamanı Kısıtlı Bireyler:** Giyim konusunda hızlı ve etkili önerilere ihtiyaç duyan, zamanı kısıtlı kullanıcılar.
-- **Stilini Geliştirmek İsteyenler:** Kendi stilini keşfetmek ve geliştirmek isteyen herkes.
+Bu sprintte ekip olarak tanışıp var olan fikirlerimiz üzerine tartıştık. Kullanıcıların ruh hallerine uygun şarkı öneren bir platform yapmaya karar verdik.
 
 ## Yapılan Çalışmalar
 
 ### 1. İlk Toplantı (21 Haziran)
 
-İlk toplantımızı 21 Haziran'da gerçekleştirdik. Toplantıda proje hedeflerimizi, görev dağılımını ve sprint süresince yapılacak işleri belirledik.
+İlk toplantımızı 21 Haziran'da gerçekleştirdik. Bu toplantıda tanıştık ve zihnimizdeki fikirler üzerine beyin fırtınası yaptık. Bir sonraki toplantıya kadar herkesin en az 1 fikirle gelmesi görevini verdik.
 
 ![İlk Toplantı](https://github.com/user-attachments/assets/f9e846a8-1bc9-4d63-9066-e294f9b908c1)
 
 
 ### 2. İkinci Toplantı (29 Haziran)
 
-İkinci toplantımızı 22 Haziran'da gerçekleştirdik. Bu toplantıda sprint ilerleyişini değerlendirdik ve gerekli düzenlemeleri yaptık.
+İkinci toplantımızı 22 Haziran'da gerçekleştirdik. Toplantıda proje hedeflerimizi, görev dağılımını ve sprint süresince yapılacak işleri belirledik.
 
 ![İkinci Toplantı](https://github.com/user-attachments/assets/e7ed4df8-3ceb-431d-8a5c-d86fff4e509e)
 
 
-### 3. Uygulama Tasarımı
 
-- Uygulamanın genel tasarımını oluşturduk.
-- Giriş, çıkış ve intro ekranlarını tasarladık.
-- Kullanıcıların stil ve tarzlarını öğrenmek için gerekli ekranları oluşturduk.
-- Kullanıcıların ne tarz şeyler giydiğini öğrenmek için anket ve form ekranları tasarladık.
-
-**Figma Tasarımı:** [Figma Link](https://www.figma.com/design/y144lYicDkEE8IshJttFat/Fit4Try---UI-Design?node-id=0-1)
-
-### 4. Giriş ve Çıkış İşlemleri
-
-- Kullanıcıların uygulamaya giriş ve çıkış yapabilmesi için gerekli altyapıyı oluşturduk.
-- Firebase Authentication kullanarak kullanıcıların kimlik doğrulamasını sağladık.
-
-![Giriş Ekranı](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/assets/72699045/51e6761b-677e-406f-9a28-61b47b9a4228)
-![Giriş Ekranı 2](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/assets/72699045/23d5b170-ea42-47f8-b20e-bfd7ce511cee)
-
-### 5. Yapay Zeka Modeli
-
-- Giydirmede kullanılacak olan yapay zeka modelini araştırıp bulduk.
-- Bu modeli test ettik ve Google Cloud ile API'ye dönüştürüp kullanılabilir hale getirdik.
-
-**Model Linki:** [Hugging Face Modeli](https://huggingface.co/spaces/levihsu/OOTDiffusion)
 
 ## Sprint Notları
 
