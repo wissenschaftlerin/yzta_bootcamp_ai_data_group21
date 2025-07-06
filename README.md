@@ -65,7 +65,11 @@ Bu sprintte ekip olarak tanışıp var olan fikirlerimiz üzerine tartıştık. 
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
 
-![Sprint1Scrum](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/assets/72699045/f1cedffc-d479-401f-8d3e-07c5df295039)
+### Trello üzerinden kanban oluşturuldu. 
+### Takım üyeleri yapacaklarını ve yaptıklarını buraya girecektir.
+### Bu haftaki Trello Görüntüsü
+![Scrum](https://github.com/user-attachments/assets/8c4e871a-c003-4dde-b21c-af62ca403d83)
+
 
 ---
 ## Alınan Kararlar:
