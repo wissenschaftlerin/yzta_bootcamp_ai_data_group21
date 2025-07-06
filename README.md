@@ -55,14 +55,88 @@ Bu sprintte ekip olarak tanışıp var olan fikirlerimiz üzerine tartıştık. 
 ### İlk UI Tasarımı Web Sitesinin
 ![WhatsApp Görsel 2025-06-30 saat 20 33 47_e0aa5a3a](https://github.com/user-attachments/assets/5b84fc60-6a7a-4ec2-a2ef-acc557cebdcf)
 
+---
+
+**🎯 Sprint Hedefi:**
+Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’ine 100 puanlık iş yükü dahil edilerek başlanmıştır.
+
+-- 
 
 ## Sprint Notları
 
 - Sprint içinde tamamlanması tahmin edilen puan: **100 Puan**
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
-- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır.
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği resim olarak Readme'de tarafımızdan paylaşılmaktadır.
+
+  Aşağıda, verdiğiniz **Trello Scrum Board görüntüsü**ne ve **açıklayıcı notlarınıza** göre güncellenmiş ve düzenlenmiş bir **Sprint Notları** metni bulabilirsiniz:
+
+---
+
+### 📊 Puanlama ve Dağılım:
+
+* **Toplam Backlog Puanı:** 380 puan
+* **Sprint 1 için Tahmini Tamamlanma Puanı:** 100 puan
+* **Story Başına Ortalama Puan:** Puanlar, toplam puanın yarısını geçmeyecek şekilde dengeli olarak tahmin edilmiştir.
+
+---
+
+### 📋 Backlog Düzeni ve Story Seçimi:
+
+* Backlog, yapılacak işlerin öncelik sırasına göre düzenlenmiştir.
+* Sprint’e dahil edilen işler, ilk sıradaki story’lerden seçilmiştir.
+* **Story’ler**, **task**’lere bölünerek detaylandırılmıştır.
+* Trello Board’daki:
+
+  * **🔴 Kırmızı kartlar:** Task’leri (yapılacak işler) temsil eder.
+  * **🔵 Mavi kartlar:** Story’leri temsil eder.
+
+---
+
+### ✅ Sprint 1’de Trello Board’a Göre Yapılan Dağılım:
+
+**🔷 Done (Tamamlananlar):**
+
+* UI tasarımı önerileri (SD, MG)
+* Veri seti araştırması ve bulunması (MG)
+* Platform ismi önerileri sunuldu
+
+**🟧 Doing (Devam Edenler):**
+
+* Uygulama Logosu Tasarımı
+* Selçuklu ve Osmanlı dönemleri müzik makamları ile tedavi yöntemleri araştırması
+* Düzenli Scrum Süreçlerinin Repo’ya Girilmesi
+
+**🔴 To Do (Yapılacaklar):**
+
+* Web sitesinin anasayfa kodlarını yazmak (SD)
+* Veri setinin analizine başlamak (MG)
+* Psikolojik rahatsızlıklar ve frekans ile tedavi yöntemlerinin araştırılması (GK)
+
+---
+
+### 🧪 Testing ve 👨‍💻 Code Review:
+
+* Henüz bu sprintte Testing veya Code Review’a gönderilmiş kart bulunmamaktadır.
+* Ancak bu sütunlar aktif olarak takip edilmektedir ve sonraki sprintlerde daha yoğun kullanılacaktır.
+* Code Review sütununda Work In Progress (WIP) limiti olarak 3 kart sınırı belirlenmiştir (Şu an 4/3 uyarısı gözükmektedir).
+
+---
+
+### 🗓 Daily Scrum Kararı:
+
+* Daily Scrum toplantıları **zamansal kısıtlamalar** nedeniyle **Slack üzerinden yazılı formatta** yapılmaktadır.
+* Daily Scrum örneği, takım tarafından hazırlanan **README dosyasında** jpeg veya Word formatında paylaşılmıştır.
+
+---
+
+### 🧠 Ekstra Notlar:
+
+* **Design & Research** sütunu aktif kullanılmakta olup, UI ve logo tasarımları bu başlık altında ilerletilmektedir.
+* Story’ler; müzik, psikoloji, veri analizi ve yazılım olarak farklı temalara ayrılarak proje kapsamı geniş tutulmuştur.
+
+---
 
 ### Trello üzerinden kanban oluşturuldu. 
 ### Takım üyeleri yapacaklarını ve yaptıklarını buraya girecektir.
