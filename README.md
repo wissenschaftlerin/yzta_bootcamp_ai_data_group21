@@ -60,7 +60,7 @@ Bu sprintte ekip olarak tanışıp var olan fikirlerimiz üzerine tartıştık. 
 **🎯 Sprint Hedefi:**
 Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’ine 100 puanlık iş yükü dahil edilerek başlanmıştır.
 
--- 
+---
 
 ## Sprint Notları
 
@@ -69,8 +69,6 @@ Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’i
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 - Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği resim olarak Readme'de tarafımızdan paylaşılmaktadır.
-
-  Aşağıda, verdiğiniz **Trello Scrum Board görüntüsü**ne ve **açıklayıcı notlarınıza** göre güncellenmiş ve düzenlenmiş bir **Sprint Notları** metni bulabilirsiniz:
 
 ---
 
