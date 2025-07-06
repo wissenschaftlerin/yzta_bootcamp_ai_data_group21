@@ -2,7 +2,7 @@
 
 ### 🎯 Proje Adı:  MoodTune 🎶📱
 ### ✍🏻 Proje Özeti
-MoodTune, kullanıcıların duygu durumlarına, semptomlarına veya ruh hâllerine göre kişiye özel müzik önerileri sunan yenilikçi bir mobil uygulamadır. Yapay zeka destekli algoritması sayesinde kullanıcıların ruh hâlini analiz eder ve buna uygun müzik listeleri oluşturarak zihinsel rahatlama ve duygusal dengeyi desteklemeyi hedefler.
+MoodTune, kullanıcıların duygu durumlarına, semptomlarına veya ruh hâllerine göre kişiye özel müzik önerileri sunan yenilikçi bir web sitesi platformudur. Yapay zeka destekli algoritması sayesinde kullanıcıların ruh hâlini analiz eder ve buna uygun müzik listeleri oluşturarak zihinsel rahatlama ve duygusal dengeyi desteklemeyi hedefler.
 
 Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodTune, sadece bir müzik uygulaması değil, aynı zamanda günlük yaşam kalitesini artırmayı amaçlayan dijital bir refakatçidir.
 
