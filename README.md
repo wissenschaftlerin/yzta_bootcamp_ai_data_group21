@@ -149,7 +149,8 @@ Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’i
 ### Trello üzerinden kanban oluşturuldu. 
 ### Takım üyeleri yapacaklarını ve yaptıklarını buraya girecektir.
 ### Bu haftaki Trello Görüntüsü
-![Scrum](https://github.com/user-attachments/assets/8c4e871a-c003-4dde-b21c-af62ca403d83)
+![Scrum 1 Trello](https://github.com/user-attachments/assets/68f347b5-c379-43ba-8728-7ad8e58d09e1)
+
 
 
 ---
