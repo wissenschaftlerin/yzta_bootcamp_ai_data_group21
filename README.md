@@ -181,7 +181,7 @@ Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’i
 ----
 ## 🤖 Takım Üyeleri
 
-### 🚀 [Gül Reyhan KURTOĞLU](https://www.linkedin.com/in/g%C3%BClrey-kurtoglu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) (Product Owner & Developer)
+### 🚀 [Gül Reyhan KURTOĞLU](https://www.linkedin.com/in/g%C3%BClrey-kurtoglu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) (Product Owner & Researcher)
 ### 🚀 [Mehmet YİĞİT](https://www.linkedin.com/in/mehmet-yigit-700127199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Developer)
 ### 🚀 [Mert Ali GÜNEL](https://www.linkedin.com/in/mertalig%C3%BCnel?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) (Developer)
 ### 🚀 [Sinem DURAK](https://www.linkedin.com/in/sinem-durak/) (Developer)
