@@ -51,9 +51,19 @@ Bu sprintte ekip olarak tanışıp var olan fikirlerimiz üzerine tartıştık. 
 
 ![İkinci Toplantı](https://github.com/user-attachments/assets/e7ed4df8-3ceb-431d-8a5c-d86fff4e509e)
 
+## Yapılan Örnekler
 
 ### İlk UI Tasarımı Web Sitesinin
 ![WhatsApp Görsel 2025-06-30 saat 20 33 47_e0aa5a3a](https://github.com/user-attachments/assets/5b84fc60-6a7a-4ec2-a2ef-acc557cebdcf)
+
+### Bilimsel Literatür Taraması Makale ve Linkler Müzik ve Sağlıkla İlişkili
+
+- https://www.hayrendis.com/osmanlida-muzikle-tedavi/
+- https://www.fikriyat.com/kultur-sanat/2018/04/11/musikiyle-gelen-sifa
+- https://dergipark.org.tr/tr/download/article-file/420904
+- https://dergipark.org.tr/tr/download/article-file/2790606
+- https://nek.istanbul.edu.tr/ekos/TEZ/ILAFK2474.pdf
+- https://dergipark.org.tr/tr/download/article-file/196882
 
 ---
 
