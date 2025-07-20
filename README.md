@@ -201,7 +201,7 @@ Karar Verilen Logo
 </div>
 
 
-İkinci toplantımızı 20 Temmuz'da gerçekleştirdik. Bu toplantıda sprint ilerleyişini değerlendirdik ve gerekli düzenlemeleri yaptık.
+İkinci toplantımızı yine Slack kanalımız üzerinden huddle'da 20 Temmuz'da gerçekleştirdik. Bu toplantıda sprint ilerleyişini değerlendirdik ve gerekli düzenlemeleri yaptık.
 
 CSS ve html ile prototip mvp geliştirildi.
 
