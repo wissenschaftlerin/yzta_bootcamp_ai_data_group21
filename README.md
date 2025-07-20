@@ -212,6 +212,238 @@ https://github.com/user-attachments/assets/a7f4a346-16af-4fd2-aa2a-1d1c21e012a2
 
 - Kelime ve cümlelere göre müzik veri seti oluşturmaya karar verdik.
 
+- Örnek Keywords Listesi Çıkarıldı
+
+  <h2>🎧 moodKeywords</h2>
+  <pre><code>
+const moodKeywords = {
+  stres: '',
+  yorgun: '',
+  mutlu: '',
+  enerjik: '',
+  huzunlu: '',
+  sakin: '',
+  heyecanlı: '',
+  endişeli: '',
+  neşeli: '',
+  karamsar: '',
+  umutlu: '',
+  öfkeli: '',
+  rahat: '',
+  melankolik: '',
+  şaşkın: '',
+  motive: '',
+  yalnız: '',
+  aşık: '',
+  kırgın: '',
+  gergin: '',
+  nostaljik: '',
+  korkmuş: '',
+  sabırsız: '',
+  tatmin: '',
+  huzurlu: '',
+  hayal_kirikligi: '',
+  içe_dönük: '',
+  dışa_dönük: '',
+  coşkulu: '',
+  duygusal: '',
+  boşlukta: '',
+  kıskanç: '',
+  özlem_dolu: '',
+  tedirgin: '',
+  keyifli: '',
+  dengesiz: '',
+  canlı: '',
+  düşünceli: '',
+  dalgın: '',
+  kararlı: '',
+  memnun: '',
+  karmaşık: '',
+  nötr: '',
+  mahcup: '',
+  coşkusuz: '',
+  dirençli: '',
+  üzgün: '',
+  memnuniyetsiz: '',
+  ilham_dolu: '',
+  kaygılı: '',
+  donuk: '',
+  hayran: '',
+  şaşırmış: '',
+  minnettar: '',
+  huzursuz: '',
+  kırılgan: '',
+  boş: '',
+  kızgın: '',
+  sevinçli: '',
+  pişman: '',
+  iç_huzurlu: '',
+  utanmış: '',
+  kafası_karışık: '',
+  cesur: '',
+  korkak: '',
+  duygusuz: '',
+  taşkın: '',
+  çekingen: '',
+  gevşemiş: '',
+  agresif: '',
+  mesafeli: '',
+  mutmain: '',
+  içsel_çatışmalı: '',
+  dertli: '',
+  spiritüel: '',
+  endorfin_dolu: '',
+  bunalmış: '',
+  zihinsel_yorgun: '',
+  duygusal_yorgun: '',
+  tükenmiş: '',
+  hissizleşmiş: '',
+  yetersiz: '',
+  başarılı: '',
+  yenilmiş: '',
+  rekabetçi: '',
+  özgüvenli: '',
+  içe_kapanık: '',
+  düşüncelerle_boğulmuş: '',
+  umut_kırıcı: '',
+  sabırlı: '',
+  anlayışlı: '',
+  ne_istediğini_bilen: '',
+  eksik: '',
+  tamamlanmış: '',
+  terk_edilmiş: '',
+  ait_hisseden: '',
+  çatışmalı: '',
+  panik: '',
+  kararsız: '',
+  mutmain: '',
+  duygusal_doygun: '',
+  hassas: '',
+  kendinden_emin: '',
+  reddedilmiş: '',
+  istekli: '',
+  bitkin: '',
+  baskı_altında: '',
+  içsel_güçlü: '',
+  kafası_dolu: '',
+  yalnız_hissediyor: '',
+  içsel_sıkışmış: '',
+  duygularını_anlamayan: '',
+  aşırı_hevesli: '',
+  duygularına_kapılmış: '',
+  sevilmiş: '',
+  küçümsenmiş: '',
+  aşağılanmış: '',
+  ait_olmayan: '',
+  güvenli: '',
+  riskli: '',
+  sorumluluk_dolu: '',
+  rahatlamış: '',
+  huzur_arayan: '',
+  kendini_arıyan: '',
+  tatminsiz: '',
+  içi_ışıyan: '',
+  yoğun: '',
+  özverili: '',
+  yardımsever: '',
+  takdir_edilmiş: '',
+  dışlanmış: '',
+  kırılganlıkta_kayıp: '',
+  umut_ışığı_görmüş: '',
+  özgür: '',
+  tutsak: '',
+  baskılanmış: '',
+  ilgi_istiyor: '',
+  bağlılık_dolmuş: '',
+  boşvermiş: '',
+  duygularına_hakim: '',
+  boğulmuş: '',
+  umutla_bekleyen: ''
+};
+  </code></pre>
+
+  <h2>🧠 moodClasses</h2>
+  <pre><code>
+const moodClasses = {
+  pozitif: [
+    'mutlu', 'neşeli', 'sevinçli', 'ilham_dolu', 'huzurlu', 'rahat', 'umutlu',
+    'canlı', 'heyecanlı', 'özverili', 'takdir_edilmiş', 'tatmin', 'kendinden_emin',
+    'başarılı', 'özgüvenli', 'coşkulu', 'keyifli', 'ilgi_istiyor', 'duygularına_hakim',
+    'iç_huzurlu', 'özgür', 'bağlılık_dolmuş', 'hassas', 'güvenli', 'takdir_edilmiş'
+  ],
+
+  negatif: [
+    'üzgün', 'hüzünlü', 'yorgun', 'stres', 'kırgın', 'karamsar', 'öfke', 'kızgın',
+    'kıskanç', 'hissizleşmiş', 'tatminsiz', 'baskı_altında', 'bunalmış', 'düşüncelerle_boğulmuş',
+    'huzursuz', 'kaygılı', 'endişeli', 'zorlanmış', 'boğulmuş', 'terk_edilmiş', 'reddedilmiş',
+    'aşağılanmış', 'dışlanmış', 'tutsak', 'riskli', 'zorlanmış', 'baskılanmış', 'gergin'
+  ],
+
+  nötr_ve_karmaşık: [
+    'düşünceli', 'karmaşık', 'dalgın', 'kararsız', 'nötr', 'donuk', 'mesafeli', 
+    'dengesiz', 'çekingen', 'duygusal', 'duygusuz', 'kafası_karışık', 'boş', 'eksik', 
+    'içsel_çatışmalı', 'çelişkili', 'huzur_arayan', 'içsel_sıkışmış', 'duygularını_anlamayan'
+  ],
+
+  motivasyon_yüksek: [
+    'enerjik', 'motive', 'kararlı', 'dirençli', 'istekli', 'rekabetçi', 'cesur',
+    'ne_istediğini_bilen', 'içsel_güçlü', 'umutla_bekleyen'
+  ],
+
+  düşük_enerjili_yorgun: [
+    'bitkin', 'tükenmiş', 'yorgun', 'zihinsel_yorgun', 'duygusal_yorgun', 'boşlukta',
+    'mahcup', 'coşkusuz', 'içe_kapanık', 'çekingen', 'başarısız', 'yenilmiş', 'kafası_dolu'
+  ],
+
+  sevgi_ve_bağlılık: [
+    'aşık', 'özlem_dolu', 'nostaljik', 'ait_hisseden', 'sevgi_dolu', 'hayran',
+    'özlemli', 'sevilmiş', 'ait_olmayan', 'bağlılık_dolmuş', 'özverili'
+  ],
+
+  kontrol_ve_güç: [
+    'kendinden_emin', 'özgüvenli', 'kararlı', 'duygularına_hakim', 'sabırlı',
+    'anlayışlı', 'sorumluluk_dolu', 'güvenli', 'kendini_arıyan', 'özgür'
+  ]
+};
+  </code></pre>
+
+  <h2>🎵 moodClassTracks</h2>
+  <pre><code>
+const moodClassTracks = {
+  pozitif: [
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3',
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3'
+  ],
+  negatif: [
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3',
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3'
+  ],
+  nötr_ve_karmaşık: [
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3',
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3'
+  ],
+  motivasyon_yüksek: [
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3',
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3'
+  ],
+  düşük_enerjili_yorgun: [
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3',
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3'
+  ],
+  sevgi_ve_bağlılık: [
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3',
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3'
+  ],
+  kontrol_ve_güç: [
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3',
+    'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-14.mp3'
+  ]
+};
+  </code></pre>
+
+</body>
+</html>
+
 
 #### Ruh Hali Değişimine Göre Ekran Görüntüleri
 ![WhatsApp Görsel 2025-07-20 saat 13 56 20_dfce600b](https://github.com/user-attachments/assets/ce6daa92-9419-42d2-9e66-21b97a7aee22)
