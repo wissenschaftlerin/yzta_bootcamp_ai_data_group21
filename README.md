@@ -203,7 +203,7 @@ CSS ve html ile prototip mvp geliştirildi.
 
 https://github.com/user-attachments/assets/a7f4a346-16af-4fd2-aa2a-1d1c21e012a2
 
-- Son versiyon kodları[https://github.com/wissenschaftlerin/yzta_bootcamp_ai_data_group21/tree/main/Codes] Github reposuna eklendi.
+- Son versiyon [kodları](https://github.com/wissenschaftlerin/yzta_bootcamp_ai_data_group21/tree/main/Codes) Github reposuna eklendi.
 
 ### Screenshotlar
 
