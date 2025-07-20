@@ -1,9 +1,7 @@
 # 📌 MoodTune : 2025 Yapay Zeka ve Teknoloji Akademisi Mezuniyet Bootcamp AI ve Veri Bilimi Grup 21 Projesi 📱
 
-<div>
-  <img src="https://github.com/user-attachments/assets/4e11871f-e973-40bf-a2b9-e89824f2d345" 
-       style="display: block; margin: auto; width: 50%; max-width: 300px;" 
-       alt="Resim">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4e11871f-e973-40bf-a2b9-e89824f2d345" width="300" alt="Resim">
 </div>
 
 ### 🎯 Proje Adı:  MoodTune 🎶📱
