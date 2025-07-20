@@ -197,7 +197,11 @@ Karar Verilen Logo
 
 
 ### 2. İkinci Toplantı (20 Temmuz)
-![WhatsApp Görsel 2025-07-20 saat 20 55 58_d3eb72fd](https://github.com/user-attachments/assets/46091757-9a0d-4662-b7cd-7f8d4e6de8d2)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/46091757-9a0d-4662-b7cd-7f8d4e6de8d2" width="400" alt="İkinci Toplantı Görseli">
+</div>
+
 
 İkinci toplantımızı 20 Temmuz'da gerçekleştirdik. Bu toplantıda sprint ilerleyişini değerlendirdik ve gerekli düzenlemeleri yaptık.
 
@@ -510,6 +514,7 @@ Sprint sonunda geliştirilen HTML-CSS prototip, fonksiyonel olarak gözden geçi
 <h3>🔹 Sprint Retrospective</h3>
 <p>
 Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kısımlarda iyileştirme yapılabileceğini değerlendirdi. Takım içi iletişim güçlüydü; ancak daha erken kodlama yapılmasının sonraki sprintlerde daha faydalı olacağı belirtildi.
+Ek olarak sitemize ekip üyelerinin fotoğrafları bölümleri, vizyonumuz ve misyonumuzun da eklenmesine karar verildi.
 </p>
 
 
