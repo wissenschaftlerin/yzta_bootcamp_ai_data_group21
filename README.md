@@ -166,9 +166,107 @@ Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’i
  
 </details>
 
+<details>
+  <summary><h1>🏃🏻‍♀️‍➡️ Sprint 2 🏃🏻‍➡️</h1></summary>
+
+# Sprint 2 Review
+![SPRINT 2](https://github.com/user-attachments/assets/3c9beb51-8700-4779-829f-a857dbe4216a)
+
+**Sprint Tarihleri:** 7 Temmuz - 20 Temmuz
+
+## Yapılan Çalışmalar
+### 1. İlk Toplantı (8 Temmuz)
+
+İlk toplantımızı 8 Temmuz'da gerçekleştirdik. Toplantıda proje hedeflerimizi, görev dağılımını ve sprint süresince yapılacak işleri belirledik.
+
+### 2. İkinci Toplantı (14 Temmuz)
+
+İkinci toplantımızı 15 Temmuz'da gerçekleştirdik. Bu toplantıda sprint ilerleyişini değerlendirdik ve gerekli düzenlemeleri yaptık.
+
+### 3. Uygulama Geliştirme
+![image](https://github.com/user-attachments/assets/331f17e1-6cba-4e51-bc20-e2e8f4e4ba60)
+
+- Kullanıcı profili sayfasını tamamladık.
+- Stil analizi ekranlarını ve algoritmalarını geliştirdik.
+- Giyim önerileri için yapay zeka modelini entegre ettik ve test ettik.
+
+### 4. Firebase Entegrasyonu
+
+- Kullanıcı verilerini Firebase Realtime Database'e kaydedecek şekilde ayarladık.
+- Kullanıcı profillerini Firebase üzerinden yönetilecek şekilde yapılandırdık.
+
+### 5. DM ve Yardım Merkezi Tasarımı
+![image](https://github.com/user-attachments/assets/48b09eda-5c05-4a9e-8f2d-c954ec382f47)
+
+- Uygulamanın DM kısmını tasarladık.
+- Yardım merkezi ve çıkış yap kısımlarını tasarladık.
+
+## Şifre & Dil & Yardım Merkezi Seçenekleri Ayarları Kodlanması
+![image](https://github.com/user-attachments/assets/d965f619-b589-4ea0-a69c-cb8e924224e1)
+
+  
+
+### Screenshotlar
+
+#### Şifre Ayarları Sayfası
+  
+![WhatsApp Bild 2024-07-21 um 14 41 48_7a52af0c](https://github.com/user-attachments/assets/17fa99fe-5af8-496e-92ed-cb0a8e7836b5) ![WhatsApp Bild 2024-07-21 um 14 41 49_460635ca](https://github.com/user-attachments/assets/5344cf69-df15-4a31-b992-d3195e9bed54) ![WhatsApp Bild 2024-07-21 um 14 41 49_7164dd66](https://github.com/user-attachments/assets/86137036-5f09-464e-bcba-a2a22de450ff)
+
+- [Şifre ayarları sayfası kodları eklendi](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/commit/4590e91c4340db3a300c5d92cdac39b398b20884)
+![WhatsApp Bild 2024-07-21 um 20 03 57_1674b6fa](https://github.com/user-attachments/assets/6d88e0a8-e084-4249-ae88-36682f3b72da)
 
 
 
+#### Dil Seçenekleri Ayarları 
+
+![WhatsApp Bild 2024-07-21 um 14 41 49_a1554e05](https://github.com/user-attachments/assets/b1c94ec4-0da8-470a-8e17-a6fff57b2ed6) ![WhatsApp Bild 2024-07-21 um 14 41 49_e211ae3e](https://github.com/user-attachments/assets/8326be25-6a00-4eed-b9fa-64bbb3588662)
+
+- [Dil seçenekleri ayarları sayfası kodları eklendi](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/commit/01e492537148716f35c5e35f249911979f679517)
+![image](https://github.com/user-attachments/assets/a28d0e8d-335f-42a2-9e07-e63d377a2191)
+
+
+#### Yardım Merkezi
+
+![WhatsApp Bild 2024-07-21 um 14 41 50_e9683d3b](https://github.com/user-attachments/assets/b3d2044c-00fa-4fbd-9dee-c6a8bc27d0e3) ![WhatsApp Bild 2024-07-21 um 14 41 50_7c3a5b9f](https://github.com/user-attachments/assets/de7a9c09-4bb1-4401-8cc6-1a4edeba7e6d)
+
+- [Yardım merkezi sayfası kodları eklendi](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/commit/9b05a7be7af6eb5d1a48f9cef699d78b4a586598)
+
+  ![image](https://github.com/user-attachments/assets/bcc4d326-c5c7-49e8-8eca-efbb40092f81)
+
+
+
+## Sprint Notları
+
+- User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- Sprint içinde tamamlanması tahmin edilen puan: **90 Puan**
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İlk sprintte tamamlanan 100 puandan sonra, bu sprintte 90 puan tamamlanması hedeflenmiştir.
+- Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task)
+
+Miro Ekran Görüntüsü
+
+![image](https://github.com/user-attachments/assets/68f1562f-6835-4b93-b7b3-71ddba3f2e81)
+
+---
+
+## Daily Scrum 
+Daily Scrum toplantılarının zamansal sebeplerden ötürü whatsapp ve slack üzerinden yapılması kararlaştırılmıştır.
+
+## Sprint Retrospective
+- Uygulama tasarımında community sayfası bitmiştir.
+- Giriş kısmı, dil seçenekleri ve yardım sayfasının kodları eklenmiştir.
+
+## Sprint Review
+Alınan kararlar: Bilgilendirmeler anlık whatsapp grubu üzerinden toplantılar meet veya slack üzerinden gerçekleştirilecektir.
+UI UX tasarımların kodlamaları yapılmıştır.
+
+
+
+![image](https://github.com/user-attachments/assets/08a95d01-d200-456c-9069-dae8963e3aaf)
+
+
+
+</details>
 
 
 
