@@ -1,5 +1,11 @@
 # 📌 MoodTune : 2025 Yapay Zeka ve Teknoloji Akademisi Mezuniyet Bootcamp AI ve Veri Bilimi Grup 21 Projesi 📱
 
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/4e11871f-e973-40bf-a2b9-e89824f2d345" 
+       style="width: 50%; max-width: 300px;" 
+       alt="Resim">
+</div>
+
 ### 🎯 Proje Adı:  MoodTune 🎶📱
 ### ✍🏻 Proje Özeti
 MoodTune, kullanıcıların duygu durumlarına, semptomlarına veya ruh hâllerine göre kişiye özel müzik önerileri sunan yenilikçi bir web sitesi platformudur. Yapay zeka destekli algoritması sayesinde kullanıcıların ruh hâlini analiz eder ve buna uygun müzik listeleri oluşturarak zihinsel rahatlama ve duygusal dengeyi desteklemeyi hedefler.
@@ -175,63 +181,47 @@ Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’i
 **Sprint Tarihleri:** 7 Temmuz - 20 Temmuz
 
 ## Yapılan Çalışmalar
-### 1. İlk Toplantı (8 Temmuz)
+### 1. İlk Toplantı (13 Temmuz)
 
-İlk toplantımızı 8 Temmuz'da gerçekleştirdik. Toplantıda proje hedeflerimizi, görev dağılımını ve sprint süresince yapılacak işleri belirledik.
+Bu sprintteki ilk toplantımızı 13 Temmuz'da gerçekleştirdik. Toplantıda şu zamana kadar yapılmış olanlar, proje hedeflerimizi, görev dağılımını ve sprint süresince yapılacak işleri belirledik. 
+Gemini AI appini deneyimledik. Müzik generate etmek adına var olan araçlara baktık. Logomuza karar verdik.
 
-### 2. İkinci Toplantı (14 Temmuz)
+https://ai.google.dev/gemini-api/docs/music-generation?hl=tr
+https://aistudio.google.com/apps?source=showcase
+![WhatsApp Görsel 2025-07-13 saat 20 55 57_0d23237c](https://github.com/user-attachments/assets/dc2f6dc2-a3ed-4a81-9cf7-26d5c9189b13)
+![WhatsApp Görsel 2025-07-13 saat 21 00 51_c15d0a45](https://github.com/user-attachments/assets/12a62a2e-ae08-4b8b-b9bf-347f11526e9f)
 
-İkinci toplantımızı 15 Temmuz'da gerçekleştirdik. Bu toplantıda sprint ilerleyişini değerlendirdik ve gerekli düzenlemeleri yaptık.
+Karar Verilen Logo
+![WhatsApp Görsel 2025-07-13 saat 20 16 10_f930f12c](https://github.com/user-attachments/assets/18e80d49-4041-4176-b5ad-ce3f83c3110b)
 
-### 3. Uygulama Geliştirme
-![image](https://github.com/user-attachments/assets/331f17e1-6cba-4e51-bc20-e2e8f4e4ba60)
 
-- Kullanıcı profili sayfasını tamamladık.
-- Stil analizi ekranlarını ve algoritmalarını geliştirdik.
-- Giyim önerileri için yapay zeka modelini entegre ettik ve test ettik.
+### 2. İkinci Toplantı (20 Temmuz)
+![WhatsApp Görsel 2025-07-20 saat 20 55 58_d3eb72fd](https://github.com/user-attachments/assets/46091757-9a0d-4662-b7cd-7f8d4e6de8d2)
 
-### 4. Firebase Entegrasyonu
+İkinci toplantımızı 20 Temmuz'da gerçekleştirdik. Bu toplantıda sprint ilerleyişini değerlendirdik ve gerekli düzenlemeleri yaptık.
 
-- Kullanıcı verilerini Firebase Realtime Database'e kaydedecek şekilde ayarladık.
-- Kullanıcı profillerini Firebase üzerinden yönetilecek şekilde yapılandırdık.
+CSS ve html ile prototip mvp geliştirildi.
 
-### 5. DM ve Yardım Merkezi Tasarımı
-![image](https://github.com/user-attachments/assets/48b09eda-5c05-4a9e-8f2d-c954ec382f47)
+https://github.com/user-attachments/assets/a7f4a346-16af-4fd2-aa2a-1d1c21e012a2
 
-- Uygulamanın DM kısmını tasarladık.
-- Yardım merkezi ve çıkış yap kısımlarını tasarladık.
 
-## Şifre & Dil & Yardım Merkezi Seçenekleri Ayarları Kodlanması
-![image](https://github.com/user-attachments/assets/d965f619-b589-4ea0-a69c-cb8e924224e1)
-
-  
 
 ### Screenshotlar
 
-#### Şifre Ayarları Sayfası
+#### Key Wordsler ile Şarkı Oynatılması Kararlaştırıldı
   
-![WhatsApp Bild 2024-07-21 um 14 41 48_7a52af0c](https://github.com/user-attachments/assets/17fa99fe-5af8-496e-92ed-cb0a8e7836b5) ![WhatsApp Bild 2024-07-21 um 14 41 49_460635ca](https://github.com/user-attachments/assets/5344cf69-df15-4a31-b992-d3195e9bed54) ![WhatsApp Bild 2024-07-21 um 14 41 49_7164dd66](https://github.com/user-attachments/assets/86137036-5f09-464e-bcba-a2a22de450ff)
+![WhatsApp Görsel 2025-07-14 saat 00 02 49_62cfaa0b](https://github.com/user-attachments/assets/d1136d9c-7086-421c-af10-cc00f34de430)
 
-- [Şifre ayarları sayfası kodları eklendi](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/commit/4590e91c4340db3a300c5d92cdac39b398b20884)
-![WhatsApp Bild 2024-07-21 um 20 03 57_1674b6fa](https://github.com/user-attachments/assets/6d88e0a8-e084-4249-ae88-36682f3b72da)
-
+- Kelime ve cümlelere göre müzik veri seti oluşturmaya karar verdik.
 
 
-#### Dil Seçenekleri Ayarları 
+#### Ruh Hali Değişimine Göre Ekran Görüntüleri
+![WhatsApp Görsel 2025-07-20 saat 13 56 20_dfce600b](https://github.com/user-attachments/assets/ce6daa92-9419-42d2-9e66-21b97a7aee22)
 
-![WhatsApp Bild 2024-07-21 um 14 41 49_a1554e05](https://github.com/user-attachments/assets/b1c94ec4-0da8-470a-8e17-a6fff57b2ed6) ![WhatsApp Bild 2024-07-21 um 14 41 49_e211ae3e](https://github.com/user-attachments/assets/8326be25-6a00-4eed-b9fa-64bbb3588662)
-
-- [Dil seçenekleri ayarları sayfası kodları eklendi](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/commit/01e492537148716f35c5e35f249911979f679517)
-![image](https://github.com/user-attachments/assets/a28d0e8d-335f-42a2-9e07-e63d377a2191)
+![WhatsApp Görsel 2025-07-20 saat 13 56 20_b3fc1c3f](https://github.com/user-attachments/assets/6a90fa1f-2a10-407c-bc4a-016afc5a5a1a)
 
 
-#### Yardım Merkezi
 
-![WhatsApp Bild 2024-07-21 um 14 41 50_e9683d3b](https://github.com/user-attachments/assets/b3d2044c-00fa-4fbd-9dee-c6a8bc27d0e3) ![WhatsApp Bild 2024-07-21 um 14 41 50_7c3a5b9f](https://github.com/user-attachments/assets/de7a9c09-4bb1-4401-8cc6-1a4edeba7e6d)
-
-- [Yardım merkezi sayfası kodları eklendi](https://github.com/wissenschaftlerin/oua_2024_bootcamp_flutter_grup32/commit/9b05a7be7af6eb5d1a48f9cef699d78b4a586598)
-
-  ![image](https://github.com/user-attachments/assets/bcc4d326-c5c7-49e8-8eca-efbb40092f81)
 
 
 
@@ -262,7 +252,7 @@ UI UX tasarımların kodlamaları yapılmıştır.
 
 
 
-![image](https://github.com/user-attachments/assets/08a95d01-d200-456c-9069-dae8963e3aaf)
+
 
 
 
