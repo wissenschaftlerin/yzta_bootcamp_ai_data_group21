@@ -1,8 +1,8 @@
 # 📌 MoodTune : 2025 Yapay Zeka ve Teknoloji Akademisi Mezuniyet Bootcamp AI ve Veri Bilimi Grup 21 Projesi 📱
 
-<div style="text-align: center;">
+<div>
   <img src="https://github.com/user-attachments/assets/4e11871f-e973-40bf-a2b9-e89824f2d345" 
-       style="width: 50%; max-width: 300px;" 
+       style="display: block; margin: auto; width: 50%; max-width: 300px;" 
        alt="Resim">
 </div>
 
@@ -54,8 +54,7 @@ Bu sprintte ekip olarak tanışıp var olan fikirlerimiz üzerine tartıştık. 
 ### 2. İkinci Toplantı (29 Haziran)
 
 İkinci toplantımızı 22 Haziran'da gerçekleştirdik. Toplantıda proje hedeflerimizi, görev dağılımını ve sprint süresince yapılacak işleri belirledik.
-
-![İkinci Toplantı](https://github.com/user-attachments/assets/e7ed4df8-3ceb-431d-8a5c-d86fff4e509e)
+  - ![İkinci Toplantı](https://github.com/user-attachments/assets/e7ed4df8-3ceb-431d-8a5c-d86fff4e509e)
 
 ## Yapılan Örnekler
 
@@ -218,7 +217,8 @@ https://github.com/user-attachments/assets/a7f4a346-16af-4fd2-aa2a-1d1c21e012a2
 #### Ruh Hali Değişimine Göre Ekran Görüntüleri
 ![WhatsApp Görsel 2025-07-20 saat 13 56 20_dfce600b](https://github.com/user-attachments/assets/ce6daa92-9419-42d2-9e66-21b97a7aee22)
 
-![WhatsApp Görsel 2025-07-20 saat 13 56 20_b3fc1c3f](https://github.com/user-attachments/assets/6a90fa1f-2a10-407c-bc4a-016afc5a5a1a)
+![WhatsApp Görsel 2025-07-20 saat 13 56 52_2906d3a8](https://github.com/user-attachments/assets/2ab60afe-8b07-4e51-98a7-af7204df9202)
+
 
 ## Puanlandırma
 
