@@ -220,12 +220,7 @@ https://github.com/user-attachments/assets/a7f4a346-16af-4fd2-aa2a-1d1c21e012a2
 
 ![WhatsApp Görsel 2025-07-20 saat 13 56 20_b3fc1c3f](https://github.com/user-attachments/assets/6a90fa1f-2a10-407c-bc4a-016afc5a5a1a)
 
-
-
-
-
-
-## Sprint Notları
+## Puanlandırma
 
 - User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - Sprint içinde tamamlanması tahmin edilen puan: **90 Puan**
@@ -233,22 +228,56 @@ https://github.com/user-attachments/assets/a7f4a346-16af-4fd2-aa2a-1d1c21e012a2
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task)
 
-Miro Ekran Görüntüsü
+Sprint Sonu Trello Ekran Görüntüsü
 
-![image](https://github.com/user-attachments/assets/68f1562f-6835-4b93-b7b3-71ddba3f2e81)
+<img width="1521" height="753" alt="image" src="https://github.com/user-attachments/assets/b9d28073-37b8-444c-8fa2-876ade0a3555" />
 
 ---
 
-## Daily Scrum 
-Daily Scrum toplantılarının zamansal sebeplerden ötürü whatsapp ve slack üzerinden yapılması kararlaştırılmıştır.
+<h2>🏃🏻‍♀️ Değerlendirme 🏃🏻‍</h2>
 
-## Sprint Retrospective
-- Uygulama tasarımında community sayfası bitmiştir.
-- Giriş kısmı, dil seçenekleri ve yardım sayfasının kodları eklenmiştir.
+<h3>🔹 Sprint Notları</h3>
+<p>
+Sprint 2 boyunca 13 Temmuz ve 20 Temmuz tarihlerinde olmak üzere iki toplantı gerçekleştirildi. 
+İlk toplantıda proje hedefleri, görev dağılımı ve araştırmalar yapıldı. Gemini AI uygulaması incelendi, müzik üretimi üzerine araçlar değerlendirildi ve logo belirlendi. 
+İkinci toplantıda MVP prototipi geliştirildi ve sprint ilerlemesi gözden geçirildi.
+</p>
 
-## Sprint Review
-Alınan kararlar: Bilgilendirmeler anlık whatsapp grubu üzerinden toplantılar meet veya slack üzerinden gerçekleştirilecektir.
-UI UX tasarımların kodlamaları yapılmıştır.
+<h3>🔹 Tahmin Edilen Tamamlanacak Puan</h3>
+<p>
+Sprint başında hedeflenen çıktılar: proje logosunun belirlenmesi, uygun araçların araştırılması ve ilk prototipin hazırlanmasıydı. Bu hedeflerin tamamı başarıyla gerçekleştirildi.
+</p>
+
+<h3>🔹 Tahmin Mantığı</h3>
+<p>
+Görevler, ilk toplantıda belirlenen iş yüküne ve süreye göre bölündü. Logo tasarımı, araç araştırmaları ve HTML-CSS ile MVP oluşturma işleri tahmini olarak zaman planlaması yapılarak dağıtıldı.
+</p>
+
+<h3>🔹 Daily Scrum</h3>
+<p>
+Ekip, WhatsApp üzerinden günlük olarak ilerlemelerini ve karşılaştıkları problemleri paylaştı. Böylece iletişim sürekli ve güncel tutuldu.
+</p>
+
+<h3>🔹 Sprint Board Updates</h3>
+<p>
+Görevler toplantılarda gözden geçirildi ve ilerlemeler sprint board'da güncellendi. Proje akışı takip edildi ve gerekli durumlarda görevler revize edildi.
+</p>
+
+<h3>🔹 Screenshot</h3>
+<p>
+Sprint boyunca geliştirilen tasarımlara ait ekran görüntüleri alındı. Ruh haline göre ekranlar ve kullanıcıdan alınacak anahtar kelimelere göre şarkı önerisi yapılması kararlaştırıldı. Ayrıca logo ve arayüz tasarım örnekleri paylaşıldı.
+</p>
+
+<h3>🔹 Sprint Review</h3>
+<p>
+Sprint sonunda geliştirilen HTML-CSS prototip, fonksiyonel olarak gözden geçirildi. MVP’nin temel işlevi çalışır duruma getirildi ve kullanıcı arayüzüne ait görseller oluşturuldu.
+</p>
+
+<h3>🔹 Sprint Retrospective</h3>
+<p>
+Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kısımlarda iyileştirme yapılabileceğini değerlendirdi. Takım içi iletişim güçlüydü; ancak daha erken kodlama yapılmasının sonraki sprintlerde daha faydalı olacağı belirtildi.
+</p>
+
 
 
 
