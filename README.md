@@ -185,8 +185,10 @@ Bu sprintte, proje genelinde belirlenen 380 puanlık backlog’un ilk sprint’i
 Bu sprintteki ilk toplantımızı 13 Temmuz'da gerçekleştirdik. Toplantıda şu zamana kadar yapılmış olanlar, proje hedeflerimizi, görev dağılımını ve sprint süresince yapılacak işleri belirledik. 
 Gemini AI appini deneyimledik. Müzik generate etmek adına var olan araçlara baktık. Logomuza karar verdik.
 
-https://ai.google.dev/gemini-api/docs/music-generation?hl=tr
-https://aistudio.google.com/apps?source=showcase
+- https://ai.google.dev/gemini-api/docs/music-generation?hl=tr
+  
+- https://aistudio.google.com/apps?source=showcase
+
 ![WhatsApp Görsel 2025-07-13 saat 20 55 57_0d23237c](https://github.com/user-attachments/assets/dc2f6dc2-a3ed-4a81-9cf7-26d5c9189b13)
 ![WhatsApp Görsel 2025-07-13 saat 21 00 51_c15d0a45](https://github.com/user-attachments/assets/12a62a2e-ae08-4b8b-b9bf-347f11526e9f)
 
