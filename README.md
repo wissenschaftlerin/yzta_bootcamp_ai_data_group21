@@ -458,7 +458,7 @@ const moodClassTracks = {
 - Sprint içinde tamamlanması tahmin edilen puan: **90 Puan**
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İlk sprintte tamamlanan 100 puandan sonra, bu sprintte 90 puan tamamlanması hedeflenmiştir.
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
-- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task)
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task)
 
 Sprint Sonu Trello Ekran Görüntüsü
 
