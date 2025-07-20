@@ -204,7 +204,6 @@ CSS ve html ile prototip mvp geliştirildi.
 https://github.com/user-attachments/assets/a7f4a346-16af-4fd2-aa2a-1d1c21e012a2
 
 
-
 ### Screenshotlar
 
 #### Key Wordsler ile Şarkı Oynatılması Kararlaştırıldı
@@ -234,7 +233,7 @@ Sprint Sonu Trello Ekran Görüntüsü
 
 ---
 
-<h2>🏃🏻‍♀️ Değerlendirme 🏃🏻‍</h2>
+<h2>🏃🏻‍♀️ Sprint Sonu Değerlendirmesi 🏃🏻‍</h2>
 
 <h3>🔹 Sprint Notları</h3>
 <p>
