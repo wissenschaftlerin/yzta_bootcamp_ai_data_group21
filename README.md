@@ -189,6 +189,8 @@ Gemini AI appini deneyimledik. Müzik generate etmek adına var olan araçlara b
 
 - https://suno.com/ ( Müzik generate etmek adına kullanabilir miyiz diye düşündük)
 
+- https://ai.google.dev/gemini-api/docs/music-generation?hl=tr (Müzik generate etmek için kullanabilir miyiz diye düşündük ama şu an kullanımda değilmiş.)
+
 ![WhatsApp Görsel 2025-07-13 saat 20 55 57_0d23237c](https://github.com/user-attachments/assets/dc2f6dc2-a3ed-4a81-9cf7-26d5c9189b13)
 ![WhatsApp Görsel 2025-07-13 saat 21 00 51_c15d0a45](https://github.com/user-attachments/assets/12a62a2e-ae08-4b8b-b9bf-347f11526e9f)
 
