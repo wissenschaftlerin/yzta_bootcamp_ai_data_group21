@@ -513,8 +513,8 @@ Sprint sonunda geliştirilen HTML-CSS prototip, fonksiyonel olarak gözden geçi
 
 <h3>🔹 Sprint Retrospective</h3>
 <p>
-Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kısımlarda iyileştirme yapılabileceğini değerlendirdi. Takım içi iletişim güçlüydü; ancak daha erken kodlama yapılmasının sonraki sprintlerde daha faydalı olacağı belirtildi.
-Ek olarak sitemize ekip üyelerinin fotoğrafları bölümleri, vizyonumuz ve misyonumuzun da eklenmesine karar verildi.
+Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kısımlarda iyileştirme yapılabileceğini değerlendirdi. Takım içi iletişim güçlüydü; ancak bazı kısımlar değişince veri testiyle ilgilenen arkadaşımız boşta kaldı.
+  Kelime değil cümle de keyword olarak seçebilecek bir şekile getirelim ve müzik dataseti oluşturalım diye karar verdik. Ek olarak sitemize ekip üyelerinin fotoğrafları bölümleri, vizyonumuz ve misyonumuzun da eklenmesine karar verildi.
 </p>
 
 
