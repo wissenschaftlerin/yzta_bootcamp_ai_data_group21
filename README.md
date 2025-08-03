@@ -16,7 +16,7 @@ Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodT
 - 🧠 Zihinsel İyilik Hâli Desteği: Müzik terapisine dayalı içeriklerle kullanıcının zihinsel sağlığına katkı sağlar.
 - 🗂️ Profil & Takip Özelliği: Kullanıcılar ruh hâllerini zamanla takip edebilir, geçmiş önerilerine göz atabilir.
 - 💬 Semptom Giriş Sistemi: Baş ağrısı, uykusuzluk, stres gibi şikâyetleri girerek otomatik olarak ruh hâline uygun müzik önerisi alabilirler.
-- 🌐 Spotify API Entegrasyonu: Kullanıcıların önerilen müzikleri doğrudan Spotify üzerinden dinleyebilmesi.
+- 🌐 Bilimsel araştırmalara ve frekanslara dayanan müzik önerimi ile bu konudaki farkındalığı arttırmak
 
 ### 👥 Hedef Kitle
 - Zihinsel Sağlığına Önem Veren Kullanıcılar: Günlük stresle başa çıkmak ve rahatlamak isteyen bireyler.
