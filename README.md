@@ -538,76 +538,92 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 
 ### Yapılması Gereken Eksiklerin Belirlenmesi & Görev Dağılımı
 
-Whatsapp üzerinden yazışmalar
+- AI entegrasyonunu nasıl yapabiliriz diye tartıştık.
+- Web sitesine ekip kısmı ve projeninin tanıtım vizyon misyonunun eklenmesi kararını alıp uyguladık.
 
-![image](https://github.com/user-attachments/assets/f7c78a44-d702-4442-be0f-524f9740e2de)
-
-### Kodlardaki hataların düzeltilmesi 
-Yeni güncelleştirmelerden ötürü olan bug'ların giderilmesi ve uygulamanın işlevesel hale getirilmesi
-
-### Logo Tasarımının Netleşmesi
-
-Logo için yapılan çeşitli tasarımlar
-
-![WhatsApp Bild 2024-07-31 um 12 44 39_72f8297e](https://github.com/user-attachments/assets/faad7f7f-3087-4ca2-804e-bf91f2f993cf)
-
-Seçilen Logomuz
-
-![image](https://github.com/user-attachments/assets/9d51da0e-df96-426c-86f7-9613fc2f977f)
-
-### Uygulama Sunumu Üzerine Çalışılması
-![WhatsApp Bild 2024-08-02 um 00 57 20_ad0f4588](https://github.com/user-attachments/assets/1ad27150-646e-4ff5-9bb2-253c6d665a67)
-
-[Fit4Try Sunum](https://www.canva.com/design/DAGMgD-1oIg/hzS3UnjDe2GMc_0WR0mhrQ/view?utm_content=DAGMgD-1oIg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-
-### Uygulamanın Marvel Üzerinden Prototipi & Sitesi Çalışması
-
-[Marvel Üzerinden Prototip](https://marvelapp.com/prototype/10gb34b4/screen/95220182)
 
 ### Screenshotlar
 
+### Ekip Sayfası
+![WhatsApp Görsel 2025-08-03 saat 17 18 14_777c727b](https://github.com/user-attachments/assets/747f2f00-59b6-4981-9b9c-ff76d38eab71)
+
+
 #### UI Tasarımlar
 
-92'den fazla UI tasarım figma üzerinden yapıldı.
-
-**Figma Tasarımı:** [Figma Link](https://www.figma.com/design/y144lYicDkEE8IshJttFat/Fit4Try---UI-Design?node-id=0-1)
-
- ![WhatsApp Bild 2024-08-01 um 11 20 37_aa9c9b41](https://github.com/user-attachments/assets/aa3100bb-2c51-4625-b9f6-39846d6d2fb8)
- ![WhatsApp Bild 2024-08-01 um 11 20 57_6548a171](https://github.com/user-attachments/assets/1068d44a-9218-4be2-ba20-74b39e64f950)
- ![WhatsApp Bild 2024-08-01 um 11 21 13_66b95afa](https://github.com/user-attachments/assets/e8661e08-65ea-412b-b237-29f7bfc5bce0)
- ![WhatsApp Bild 2024-08-01 um 11 21 35_1389ef91](https://github.com/user-attachments/assets/868643eb-8519-43a7-a642-94fa9b1213d5)
- ![WhatsApp Bild 2024-08-01 um 11 22 14_fc655fb7](https://github.com/user-attachments/assets/5a850a83-db9f-437d-9bb6-1c5e81fef0d7)
- ![WhatsApp Bild 2024-08-01 um 11 22 29_b31bbcbe](https://github.com/user-attachments/assets/f834cd6a-e379-4173-b84e-12639191b969)
-
-Trello Board
-
-<img width="857" height="756" alt="image" src="https://github.com/user-attachments/assets/49ba8bdb-5edd-4c50-b6d7-8a16743710ea" />
+**Sitenin Görünümü** [Site Girişi](<img width="1264" height="587" alt="image" src="https://github.com/user-attachments/assets/122666b9-21e2-46b1-983e-4a94ca57299f" />)
 
 
-## Sprint Notları
+## Puanlandırma
 
 - User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 - Sprint içinde tamamlanması tahmin edilen puan: **90 Puan**
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İlk sprintte tamamlanan 100 puandan sonra, bu sprintte 90 puan tamamlanması hedeflenmiştir.
 - Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
-- Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task)
+- Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task)
 
-#### Miro yerine bu hafta süreci hızlandırmak adına sprintler ve takip sürecinde daha çok Whatsapp kullanılmıştır.
-![image](https://github.com/user-attachments/assets/e9a2bc0a-346e-48e4-82d2-f923b65f7502)
+  
+Sprint Sonu Trello Board
 
----
+<img width="857" height="756" alt="image" src="https://github.com/user-attachments/assets/49ba8bdb-5edd-4c50-b6d7-8a16743710ea" />
 
-## Daily Scrum 
-Whatsapp üzerinden mesajla haberleşerek bu sprint sürecinde hızlı ilerlenmiştir.
+<h2>🏃🏻‍♀️ Sprint Sonu Değerlendirmesi 🏃🏻‍</h2>
 
-## Sprint Retrospective
-- Uygulamanın logosu ve tasarım UI kısımları bitmiştir.
-- Uygulamanın tanıtım videosuna başlanmış ve hazırlanmıştır.
-- Kodlamadaki eksiklikler üzerine odaklanılmıştır
+<h3>🔹 Sprint Notları</h3>
+<p>
+Sprint 3 boyunca proje geliştirme süreci devam etti ve ekip üyeleri aktif bir şekilde görevlerini yerine getirdi. 
+Yeni müziklerin oluşturulması, site içeriğinin genişletilmesi ve ekip tanıtım bölümlerinin geliştirilmesi bu sprintin ana odak noktalarıydı. 
+Ayrıca bilimsel açıklamalarla içeriğin desteklenmesi sağlandı.
+</p>
 
-## Sprint Review
-- Uygulamadaki eksiklere odaklanılıp hızlıca görev dağılımı yapılmıştır.
-- Uygulamanın tanıtımı, sunumu, videosu hazırlanmıştır.
+<h3>🔹 Tahmin Edilen Tamamlanacak Puan</h3>
+<p>
+Sprint hedefleri: 
+<ul>
+  <li>Suno.AI ile yeni müziklerin üretilerek kütüphaneye eklenmesi</li>
+  <li>Siteye ekip üyelerinin LinkedIn profillerine yönlendiren bağlantıların eklenmesi</li>
+  <li>Bilimsel temellere dair açıklamaların ilgili bölümlere yerleştirilmesi</li>
+</ul>
+Bu hedeflerin tamamı başarıyla gerçekleştirildi.
+</p>
+
+<h3>🔹 Tahmin Mantığı</h3>
+<p>
+Görevler önceki sprint çıktıları temel alınarak detaylandırıldı. 
+Müzik üretimi, içerik düzenleme ve bağlantı ekleme görevleri iş yüküne göre dağıtıldı ve zaman planlamasıyla ilerletildi.
+</p>
+
+<h3>🔹 Daily Scrum</h3>
+<p>
+Ekip, günlük olarak WhatsApp üzerinden iletişimini sürdürdü. 
+Gelişmeler, karşılaşılan zorluklar ve öneriler düzenli olarak paylaşıldı.
+</p>
+
+<h3>🔹 Sprint Board Updates</h3>
+<p>
+Görevler sprint board üzerinden takip edilerek güncellendi. 
+Tamamlanan görevler "done" sütununa taşındı.
+</p>
+
+<h3>🔹 Screenshot</h3>
+<p>
+Yeni eklenen ekip tanıtım bölümü (LinkedIn bağlantılarıyla birlikte), müzik kütüphanesi ekranı ve bilimsel açıklama sayfalarının ekran görüntüleri alındı ve belgelerde yer aldı.
+</p>
+
+<h3>🔹 Sprint Review</h3>
+<p>
+Sprint sonunda geliştirilen içerikler gözden geçirildi. 
+Suno.AI ile üretilen müzikler başarıyla entegre edildi. 
+Kullanıcı arayüzü daha kapsamlı ve fonksiyonel hale getirildi.
+</p>
+
+<h3>🔹 Sprint Retrospective</h3>
+<p>
+Ekip, yapılan yeniliklerin projeye değer kattığını belirtti. 
+Bilimsel açıklamalar projenin güvenilirliğini artırdı. 
+Zaman yönetiminin bazı anlarda zorlayıcı olduğu fark edildi. 
+Bir sonraki sprintte etiketleme sistemi geliştirilerek, kullanıcı girdilerine daha rafine müzik önerileri sunulması hedeflendi.
+</p>
+``
 
 </details>
 
