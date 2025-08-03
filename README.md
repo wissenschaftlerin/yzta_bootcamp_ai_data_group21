@@ -25,6 +25,8 @@ Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodT
 - Duygu Takibi Yapmak İsteyenler: Kendi ruh hâlini daha iyi anlamak ve analiz etmek isteyen bireyler.
 
 ----
+## 📹 [Uygulama Tanıtım Videosu](https://youtu.be/wlHwRsIV63s)
+----
 
 ## 📌 Proje Süreci & Sprintler
 <details>
