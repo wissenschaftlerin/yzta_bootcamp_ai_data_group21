@@ -540,6 +540,7 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 
 - AI entegrasyonunu nasıl yapabiliriz diye tartıştık.
 - Web sitesine ekip kısmı ve projeninin tanıtım vizyon misyonunun eklenmesi kararını alıp uyguladık.
+- Müzikleri çağırmada algoritmadaki değişiklikleri müziklerin internet yolu soundcloud üzerinden gelmesini düzenledik.
 
 
 ### Screenshotlar
@@ -550,7 +551,12 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 
 #### UI Tasarımlar
 
-**Sitenin Görünümü** [Site Girişi](<img width="1264" height="587" alt="image" src="https://github.com/user-attachments/assets/122666b9-21e2-46b1-983e-4a94ca57299f" />)
+### **Sitenin Görünümü** 
+<img width="1264" height="587" alt="image" src="https://github.com/user-attachments/assets/122666b9-21e2-46b1-983e-4a94ca57299f" />)
+
+### Bilimsel Araştırmaların Derlenmesi (Makama ve Frekansa Göre İyi Gelen Hastalıklar & Semptomlar)
+<img width="1104" height="561" alt="image" src="https://github.com/user-attachments/assets/628a292c-173f-426a-9a54-a31ac7e4e012" />
+
 
 
 ## Puanlandırma
@@ -562,7 +568,7 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 - Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken kırmızı item'lar yapılacak işleri (task)
 
   
-Sprint Sonu Trello Board
+## Sprint Sonu Trello Board
 
 <img width="857" height="756" alt="image" src="https://github.com/user-attachments/assets/49ba8bdb-5edd-4c50-b6d7-8a16743710ea" />
 
