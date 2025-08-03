@@ -548,7 +548,7 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 ![WhatsApp Görsel 2025-08-03 saat 17 18 14_777c727b](https://github.com/user-attachments/assets/747f2f00-59b6-4981-9b9c-ff76d38eab71)
 
 ### **Sitenin Görünümü** 
-<img width="1264" height="587" alt="image" src="https://github.com/user-attachments/assets/122666b9-21e2-46b1-983e-4a94ca57299f" />)
+<img width="1264" height="587" alt="image" src="https://github.com/user-attachments/assets/122666b9-21e2-46b1-983e-4a94ca57299f" />
 
 ### Bilimsel Araştırmaların Derlenmesi (Makama ve Frekansa Göre İyi Gelen Hastalıklar & Semptomlar)
 <img width="1104" height="561" alt="image" src="https://github.com/user-attachments/assets/628a292c-173f-426a-9a54-a31ac7e4e012" />
