@@ -542,14 +542,10 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 - Web sitesine ekip kısmı ve projeninin tanıtım vizyon misyonunun eklenmesi kararını alıp uyguladık.
 - Müzikleri çağırmada algoritmadaki değişiklikleri müziklerin internet yolu soundcloud üzerinden gelmesini düzenledik.
 
-
-## Screenshotlar
+## Screenshotlar 
 
 ### Ekip Sayfası
 ![WhatsApp Görsel 2025-08-03 saat 17 18 14_777c727b](https://github.com/user-attachments/assets/747f2f00-59b6-4981-9b9c-ff76d38eab71)
-
-
-#### UI Tasarımlar
 
 ### **Sitenin Görünümü** 
 <img width="1264" height="587" alt="image" src="https://github.com/user-attachments/assets/122666b9-21e2-46b1-983e-4a94ca57299f" />)
