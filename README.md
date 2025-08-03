@@ -26,7 +26,7 @@ Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodT
 
 ----
 ## 📹 [Uygulama Tanıtım Videosu](https://youtu.be/wlHwRsIV63s)
-## 💻 [Kodları](https://drive.google.com/drive/folders/1Qr17vDgNyyO6jun-MhmFbfyhrrftLa7l?usp=sharing) - boyutu fazla oldugğundan drive'a eklenmiştir.
+## 💻 [Kodları](https://drive.google.com/drive/folders/1Qr17vDgNyyO6jun-MhmFbfyhrrftLa7l?usp=sharing) - boyutu fazla olduğundan drive'a eklenmiştir.
 ----
 
 ## 📌 Proje Süreci & Sprintler
