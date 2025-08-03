@@ -543,7 +543,7 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 - Müzikleri çağırmada algoritmadaki değişiklikleri müziklerin internet yolu soundcloud üzerinden gelmesini düzenledik.
 
 
-### Screenshotlar
+## Screenshotlar
 
 ### Ekip Sayfası
 ![WhatsApp Görsel 2025-08-03 saat 17 18 14_777c727b](https://github.com/user-attachments/assets/747f2f00-59b6-4981-9b9c-ff76d38eab71)
@@ -556,7 +556,6 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 
 ### Bilimsel Araştırmaların Derlenmesi (Makama ve Frekansa Göre İyi Gelen Hastalıklar & Semptomlar)
 <img width="1104" height="561" alt="image" src="https://github.com/user-attachments/assets/628a292c-173f-426a-9a54-a31ac7e4e012" />
-
 
 
 ## Puanlandırma
@@ -629,27 +628,11 @@ Bilimsel açıklamalar projenin güvenilirliğini artırdı.
 Zaman yönetiminin bazı anlarda zorlayıcı olduğu fark edildi. 
 Bir sonraki sprintte etiketleme sistemi geliştirilerek, kullanıcı girdilerine daha rafine müzik önerileri sunulması hedeflendi.
 </p>
-``
+
 
 </details>
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ----
