@@ -11,7 +11,7 @@ MoodTune, kullanıcıların duygu durumlarına, semptomlarına veya ruh hâlleri
 Kullanıcı dostu arayüzü ve semptom bazlı kişiselleştirme sistemiyle MoodTune, sadece bir müzik uygulaması değil, aynı zamanda günlük yaşam kalitesini artırmayı amaçlayan dijital bir refakatçidir.
 
 ### 🌟 Eşsiz Özellikleri
-- 🎯 Yapay Zeka Destekli Duygu Analizi: Kullanıcının anlık duygu durumu (örneğin baş ağrısı, stres, huzursuzluk) veya günlük ruh hâli bazında analiz yapar.
+- 🎯 Duygu Analizi: Kullanıcının anlık duygu durumu (örneğin baş ağrısı, stres, huzursuzluk) veya günlük ruh hâli bazında analiz yapar.
 - 🎵 Kişiye Özel Müzik Önerileri: Kullanıcının semptomlarına veya hislerine en uygun müzik listelerini önerir.
 - 🧠 Zihinsel İyilik Hâli Desteği: Müzik terapisine dayalı içeriklerle kullanıcının zihinsel sağlığına katkı sağlar.
 - 🗂️ Profil & Takip Özelliği: Kullanıcılar ruh hâllerini zamanla takip edebilir, geçmiş önerilerine göz atabilir.
