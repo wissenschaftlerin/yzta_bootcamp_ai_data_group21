@@ -530,7 +530,7 @@ Ekip üyeleri süreç boyunca hangi kısımların verimli olduğunu ve hangi kı
 
 ![SPRINT 3](https://github.com/user-attachments/assets/1c01ec84-9f8d-488e-9e31-539aeb3e2604)
 
-**Sprint Tarihleri:** 22 Temmuz - 2 Ağustos
+**Sprint Tarihleri:** 21 Temmuz - 3 Ağustos
 
 ## Yapılan Çalışmalar
 
@@ -579,7 +579,8 @@ Seçilen Logomuz
 
 Trello Board
 
-![image](https://github.com/user-attachments/assets/421442ec-f286-4254-8fe6-22ba6dbb0d1d)
+<img width="857" height="756" alt="image" src="https://github.com/user-attachments/assets/49ba8bdb-5edd-4c50-b6d7-8a16743710ea" />
+
 
 ## Sprint Notları
 
